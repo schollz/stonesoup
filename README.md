@@ -1,5 +1,5 @@
 # stonesoup
-A little norns fx engine for anyone to contribute and for any script to share
+A little norns softcut fx engine for anyone to contribute and for any script to share
 
 
 ## save your ears from feedback
