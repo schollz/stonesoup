@@ -27,3 +27,12 @@ engine.phaser(1)
 engine.delay(1)
 engine.strobe(1)
 ```
+
+## todo
+
+a lua script (maybe an importable menu) that can:
+
+- toggle jack connections
+- toggle effects
+
+more fx?
